@@ -1,0 +1,17 @@
+P:\C#\RealtorAgency\RealtorAgency\bin\Debug\RealtorAgency.exe.config
+P:\C#\RealtorAgency\RealtorAgency\bin\Debug\RealtorAgency.exe
+P:\C#\RealtorAgency\RealtorAgency\bin\Debug\RealtorAgency.pdb
+P:\C#\RealtorAgency\RealtorAgency\obj\Debug\RealtorAgency.csprojResolveAssemblyReference.cache
+P:\C#\RealtorAgency\RealtorAgency\obj\Debug\RealtorAgency.Clients.resources
+P:\C#\RealtorAgency\RealtorAgency\obj\Debug\RealtorAgency.Properties.Resources.resources
+P:\C#\RealtorAgency\RealtorAgency\obj\Debug\RealtorAgency.csproj.GenerateResource.Cache
+P:\C#\RealtorAgency\RealtorAgency\obj\Debug\RealtorAgency.exe
+P:\C#\RealtorAgency\RealtorAgency\obj\Debug\RealtorAgency.pdb
+P:\C#\RealtorAgency\RealtorAgency\obj\Debug\RealtorAgency.Realtors.resources
+P:\C#\RealtorAgency\RealtorAgency\obj\Debug\RealtorAgency.Deals.resources
+P:\C#\RealtorAgency\RealtorAgency\obj\Debug\RealtorAgency.Realties.resources
+P:\C#\RealtorAgency\RealtorAgency\obj\Debug\RealtorAgency.Tables.resources
+P:\C#\RealtorAgency\RealtorAgency\obj\Debug\RealtorAgency.Orders.resources
+P:\C#\RealtorAgency\RealtorAgency\obj\Debug\RealtorAgency.OrderTypes.resources
+P:\C#\RealtorAgency\RealtorAgency\obj\Debug\RealtorAgency.RealtyTypes.resources
+P:\C#\RealtorAgency\RealtorAgency\obj\Debug\RealtorAgency.Regions.resources
